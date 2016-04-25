@@ -1,5 +1,6 @@
-golang-golang-x-image-dev (0.0+git20150226-1) unstable; urgency=high
+golang-golang-x-image-dev (0.0+git20150226-2) xenial; urgency=high
 
+  [ Martín Ferrari ]
   * Document copyright info for html/testdata/go1.html (Closes: #790313)
 
- -- Martín Ferrari <tincho@debian.org>  Mon, 06 Jul 2015 07:26:21 +0200
+ -- lilongyu <leaeasy@gmail.com>  Mon, 25 Apr 2016 11:14:44 +0800
